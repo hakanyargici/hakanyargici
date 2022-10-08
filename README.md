@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakanyargici
 - 👀 I’m interested in ... front-end tech
-- 🌱 I’m currently learning ... bootstrap 5v
+- 🌱 I’m currently learning ... vanilla JS
 - 📫 How to reach me ... hakanyargici@outlook.com
 
 <!---
