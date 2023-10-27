@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @hakanyargici<br>🔭 I’m currently teaching programming<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about HTML5 + CSS + Bootstrap<br>📫 How to reach me ... hakanyargici@outlook.com<br>
+👋 Hi, I’m @hakanyargici<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about HTML5 + CSS + Bootstrap<br>📫 How to reach me ... hakanyargici@outlook.com<br>
 
 
 ## 🌐 Socials:
